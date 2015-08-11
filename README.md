@@ -19,7 +19,7 @@
   rights: 52harrypotter.com
 
 3. http://www.topit.me/album/605872/item/7619291
-  Title: Ron Wesley
+  Title: Ron Weasley
   Type: image/jpeg
   Format: JPEG
   Publisher: topit.me
